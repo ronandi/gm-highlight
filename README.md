@@ -1,13 +1,12 @@
 # gm-highlight
 
-A Clojure library designed to ... well, that part is up to you.
+A GroupMe bot written in Clojure designed to provide "Highlight" notifications
+to your phone via Pushover.
 
 ## Usage
 
-FIXME
+Clone and deploy. You can try running it locally with `lein ring server`
 
 ## License
-
-Copyright © 2014 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.
